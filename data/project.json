@@ -1,0 +1,138 @@
+{
+  "project": {
+    "name": "LaVie",
+    "tagline": "Grün wohnen. Gemeinsam erleben. Zukunft gestalten.",
+    "address": "Lerchenstraße Ecke Ponkratzstraße",
+    "district": "Feldmoching-Hasenbergl",
+    "city": "München",
+    "zip": "80995",
+    "coordinates": { "lat": 48.21043759590774, "lng": 11.538548408402242 },
+    "developer": "CONCEPT BAU GmbH",
+    "completion": "Q4 2027",
+    "totalUnits": 158,
+    "availableUnits": 16,
+    "totalQuarter": 1650,
+    "lavieTotal": 700,
+    "areaHectare": 23,
+    "rooms": "1 bis 4 Zimmer",
+    "sqmRange": "30 – 117 m²",
+    "priceFrom": 299000,
+    "commissionFree": true,
+    "description": "Auf einer Fläche von 23 Hektar nimmt ein visionäres Stadtviertel Gestalt an. Unter dem Namen LaVie entstehen rund 700 hochwertige Eigentumswohnungen, eingebettet in ein neues Viertel mit insgesamt 1.650 Wohnungen, Schulen, Kitas und Gewerbe. Der 1. Bauabschnitt umfasst vier elegante Gebäude mit 158 Eigentumswohnungen und einem autofreien, begrünten Innenhof.",
+    "buildingPhase": "1. Bauabschnitt: 4 Gebäude, 158 Einheiten"
+  },
+  "media": {
+    "heroVideoUrl": null,
+    "heroVideoPosterUrl": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=2400&q=80",
+    "pexelsSourceUrl": "https://www.pexels.com/video/aerial-view-of-urban-apartment-complex-34775614/",
+    "gallery": [
+      "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=1600&q=80",
+      "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80",
+      "https://images.unsplash.com/photo-1600566753190-17f0baa2a6c3?w=1600&q=80",
+      "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=1600&q=80",
+      "https://images.unsplash.com/photo-1542621334-a254cf47733d?w=1600&q=80",
+      "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=1600&q=80"
+    ]
+  },
+  "location": {
+    "highlights": [
+      "Münchner Innenstadt in ca. 20 Min mit S- & U-Bahn",
+      "A99 nur wenige Minuten entfernt",
+      "Fasaneriesee in 2 Min mit dem Rad",
+      "Feldmochinger See in 7 Min mit dem Rad",
+      "Lerchenauer See in 7 Min mit dem Rad",
+      "Schulen und Kindergärten in unmittelbarer Nähe",
+      "Vielfältige Einkaufsmöglichkeiten fußläufig"
+    ],
+    "pois": [
+      { "name": "Fasaneriesee", "type": "lake", "distanceMin": 2, "mode": "bike", "lat": 48.2207, "lng": 11.5488 },
+      { "name": "Feldmochinger See", "type": "lake", "distanceMin": 7, "mode": "bike", "lat": 48.2262, "lng": 11.5219 },
+      { "name": "Lerchenauer See", "type": "lake", "distanceMin": 7, "mode": "bike", "lat": 48.2058, "lng": 11.5548 },
+      { "name": "S-Bahn Feldmoching", "type": "transit", "distanceMin": 8, "mode": "walk", "lat": 48.2085, "lng": 11.5395 },
+      { "name": "U-Bahn Feldmoching", "type": "transit", "distanceMin": 8, "mode": "walk", "lat": 48.2085, "lng": 11.5395 },
+      { "name": "Marienplatz", "type": "city", "distanceMin": 20, "mode": "transit", "lat": 48.1374, "lng": 11.5755 },
+      { "name": "A99 Auffahrt", "type": "highway", "distanceMin": 5, "mode": "car", "lat": 48.2296, "lng": 11.5717 }
+    ]
+  },
+  "equipment": [
+    "Hochwertige Markenausstattungen",
+    "Helle, lichtdurchflutete Wohnungen durch bodentiefe Fensterelemente",
+    "Echtholzparkett der Firma „Bauwerk\" in den Wohnräumen",
+    "Dreifach verglaste Isolierfenster",
+    "Individuell regelbare Fußbodenheizung",
+    "Elektrisch steuerbare Rollläden",
+    "Elektrische Schalter „Busch-Jäger\"",
+    "Teilweise direkt angeschlossene En-Suite-Badezimmer",
+    "Ausgewählte Markenausstattung in den Bädern"
+  ],
+  "energy": {
+    "heatingType": "Fußbodenheizung",
+    "energySource": "Fernwärme, Solar"
+  },
+  "outdoor": "Autofreier, begrünter Innenhof mit vielen Sitzgelegenheiten und Wasserspielplatz für Kinder in unmittelbarer Nähe.",
+  "units": [
+    { "id": "u01", "price": 299000, "rooms": 1, "sqm": 41, "floor": 1, "parking": true,  "status": "available", "orientation": "Süd" },
+    { "id": "u02", "price": 334000, "rooms": 1, "sqm": 30, "floor": 3, "parking": true,  "status": "available", "orientation": "Ost" },
+    { "id": "u03", "price": 359000, "rooms": 1, "sqm": 35, "floor": 1, "parking": true,  "status": "available", "orientation": "West" },
+    { "id": "u04", "price": 369000, "rooms": 1, "sqm": 40, "floor": 1, "parking": true,  "status": "available", "orientation": "Süd" },
+    { "id": "u05", "price": 389000, "rooms": 1, "sqm": 37, "floor": 2, "parking": false, "status": "available", "orientation": "Süd-West" },
+    { "id": "u06", "price": 489000, "rooms": 2, "sqm": 55, "floor": 2, "parking": true,  "status": "available", "orientation": "Süd" },
+    { "id": "u07", "price": 549000, "rooms": 2, "sqm": 62, "floor": 3, "parking": true,  "status": "reserved",  "orientation": "Ost" },
+    { "id": "u08", "price": 589000, "rooms": 2, "sqm": 68, "floor": 4, "parking": true,  "status": "available", "orientation": "West" },
+    { "id": "u09", "price": 645000, "rooms": 3, "sqm": 78, "floor": 2, "parking": true,  "status": "available", "orientation": "Süd-West" },
+    { "id": "u10", "price": 689000, "rooms": 3, "sqm": 84, "floor": 3, "parking": true,  "status": "sold",      "orientation": "Süd" },
+    { "id": "u11", "price": 729000, "rooms": 3, "sqm": 89, "floor": 4, "parking": true,  "status": "available", "orientation": "Ost" },
+    { "id": "u12", "price": 845000, "rooms": 4, "sqm": 102,"floor": 4, "parking": true,  "status": "available", "orientation": "Süd-West" },
+    { "id": "u13", "price": 925000, "rooms": 4, "sqm": 117,"floor": 5, "parking": true,  "status": "available", "orientation": "Süd (Penthouse)" },
+    { "id": "u14", "price": 525000, "rooms": 2, "sqm": 58, "floor": 1, "parking": true,  "status": "reserved",  "orientation": "Nord" },
+    { "id": "u15", "price": 612000, "rooms": 3, "sqm": 72, "floor": 1, "parking": true,  "status": "available", "orientation": "West" },
+    { "id": "u16", "price": 458000, "rooms": 2, "sqm": 50, "floor": 4, "parking": false, "status": "sold",      "orientation": "Ost" }
+  ],
+  "banks": [
+    { "name": "ING",          "interestRate": 3.42, "tied": 10 },
+    { "name": "DKB",          "interestRate": 3.55, "tied": 10 },
+    { "name": "Interhyp",     "interestRate": 3.38, "tied": 10 },
+    { "name": "Commerzbank",  "interestRate": 3.61, "tied": 10 },
+    { "name": "Sparkasse München", "interestRate": 3.72, "tied": 10 }
+  ],
+  "broker": {
+    "primary": {
+      "name": "Friederike Mahn-Bartholme",
+      "role": "Selbst. Vertriebspartnerin",
+      "languages": ["Deutsch", "Englisch"],
+      "phone": "089 710 409 103",
+      "email": "feldmoching@conceptbau.de"
+    },
+    "secondary": {
+      "name": "Marius Niedermeier",
+      "role": "Selbst. Vertriebspartner",
+      "languages": ["Deutsch"],
+      "phone": "089 710 409 103",
+      "email": "feldmoching@conceptbau.de"
+    },
+    "office": {
+      "address": "Ecke Georg-Zech-Allee / Lerchenauer Straße, 80995 München (unmittelbar am Baufeld)",
+      "hours": "Donnerstag 16–19 Uhr, Samstag 14–17 Uhr"
+    }
+  },
+  "developerInfo": {
+    "name": "CONCEPT BAU GmbH",
+    "founded": 1982,
+    "headquarters": "Hans-Cornelius-Str. 4, 82166 Gräfelfing",
+    "projectsRealized": 7500,
+    "employees": 25,
+    "description": "Mittelständischer Projektentwickler und Bauträger mit über 40 Jahren Erfahrung im Wohnungsbau. Vom Grundstücksankauf über Projektentwicklung und Bauausführung bis zur schlüsselfertigen Immobilie."
+  },
+  "webinars": [
+    { "date": "2026-04-29T18:00:00", "title": "LaVie Live: Lage, Architektur & Investmentpotenzial", "speaker": "Marius Niedermeier" },
+    { "date": "2026-05-06T18:00:00", "title": "Energie & Nachhaltigkeit im Quartier LaVie", "speaker": "Friederike Mahn-Bartholme" },
+    { "date": "2026-05-13T19:00:00", "title": "Finanzierung 2026: Was Käufer jetzt wissen müssen", "speaker": "Gast: Interhyp" }
+  ],
+  "faq": [
+    { "q": "Ist das Projekt provisionsfrei?", "a": "Ja, alle Einheiten werden provisionsfrei direkt vom Bauträger CONCEPT BAU vertrieben." },
+    { "q": "Wann ist der voraussichtliche Bezug?", "a": "Bezugsfertig ab voraussichtlich Q4 2027." },
+    { "q": "Wie wird geheizt?", "a": "Fußbodenheizung, individuell pro Raum regelbar. Energieträger sind Fernwärme und Solar." },
+    { "q": "Gibt es Stellplätze?", "a": "Ja, die meisten Einheiten haben einen zugeordneten Stellplatz in der Tiefgarage." },
+    { "q": "Wie weit ist es in die Innenstadt?", "a": "Etwa 20 Minuten mit S- oder U-Bahn bis zum Marienplatz." }
+  ]
+}
